@@ -48,7 +48,8 @@ The core of the system is the **Orchestration Service** ("The Brain"), which man
 
 This diagram details the precise API call flow (REST & gRPC) between all microservices.
 
-
+*(capstone_sequance.drawio.png)*
+``
 `![API Call Flow Sequence Diagram](https://github.com/ahrazkk/Aegis-Clinical-MLOps-Platform/blob/main/SequenceDiagram.png?raw=true)`
 
 ## 🤖 The AI Model
